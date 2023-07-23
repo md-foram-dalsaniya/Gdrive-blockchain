@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\blockchain_pro\\we3_fullstackpro\\dec_google_drive\\contracts\\upload.sol": {
+      "lastModificationDate": 1689876583336,
+      "contentHash": "b3c1b29698668727fe46bef4adb3af4c",
+      "sourceName": "contracts/upload.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "upload"
+      ]
+    }
+  }
+}
